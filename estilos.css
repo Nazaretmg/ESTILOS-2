@@ -1,0 +1,31 @@
+
+ul{
+	color: green;
+}
+
+nav ul{
+	background: grey;
+}
+
+div.contenedor1{
+	background: blue;
+}
+
+div.contenedor2{
+	background: orange;
+}
+
+div ul{
+	background: yellow;
+}
+div.contenedor3{
+	background: pink;
+}
+
+p{
+	font-style: italic;
+}
+
+div.contenedor3 p{
+	font-size: 30px;
+}
